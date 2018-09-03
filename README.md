@@ -1,2 +1,2 @@
 # Maze
-generate maze and path will be found by program
+generate maze so that program can find the correct path
